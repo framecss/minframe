@@ -50,9 +50,9 @@ Slider.JS
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/cp.js" type="text/javascript" charset="utf-8"></script>
 ```
 ### NPM
-framecss.1.1.5
+minframecss.1.1.5
 ```txt
-npm i newframecss
+npm i minframecss
 ```
 ```txt
 npm i getframecss
