@@ -24,9 +24,9 @@
 
 ## Mulai
 ### CDN
-Framecss.CSS
+minframe.css
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/minframe/frame.min.css">
 ```
 Framecss.JS
 ```html
