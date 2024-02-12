@@ -59,13 +59,10 @@ npm i getframecss
 ```
 ### Github
 ```txt
-git clone https://github.com/nelsenpro/newframecss.git
-```
-```txt
-git clone https://github.com/nelsenpro/framecss.git
+git clone https://github.com/nelsenpro/minframe.git
 ```
 ### Zip File
-[Download Zip](https://github.com/nelsenpro/newframecss/archive/refs/heads/main.zip)
+[Download Zip](https://github.com/nelsenpro/minframe/archive/refs/heads/main.zip)
 
 
 ### see other source on :
@@ -81,9 +78,7 @@ git clone https://github.com/nelsenpro/framecss.git
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.min.css">
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.js" defer="true"></script>
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.js" defer="true"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/minframe/frame.min.css">
     <title>Mulai Framecss</title>
 </head>
 <body>
